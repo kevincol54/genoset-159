@@ -1,6 +1,6 @@
 {
   "name": "genoset-159",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your CYP1A2 fast metabolizer status means that you are less stimulated by caffeine.",
   "main": "index.js",
   "scripts": {
