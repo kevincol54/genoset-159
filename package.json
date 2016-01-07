@@ -1,0 +1,32 @@
+{
+  "name": "genoset-159",
+  "version": "1.0.0",
+  "description": "Your CYP1A2 fast metabolizer status means that you are less stimulated by caffeine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./tests/*.js | tap-spec",
+    "lint": "standard *.js lib/*.js test/*.js"
+  },
+  "keywords": [
+    "genoset",
+    "genome",
+    "genetics",
+    "genes",
+    "dna",
+    "gs159",
+    "CYP1A2"
+  ],
+  "author": "Kevin Collins <kevincol54@gmail.com> (https://github.com/kevincol54)",
+  "license": "MIT",
+  "dependencies": {
+    "gql": "^1.1.0"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1",
+    "tap": "^5.0.0",
+    "tap-spec": "^4.1.1"
+  },
+  "engines": {
+    "node": "4.2.3"
+  }
+}
