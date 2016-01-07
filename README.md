@@ -1,6 +1,6 @@
 # genoset-159
 
-Your CYP1A2 fast metabolizer status means that you are less stimulated by caffeine., as per [gs159](http://www.snpedia.com/index.php/Gs159)
+Your CYP1A2 fast metabolizer status means that you are less stimulated by caffeine, as per [gs159](http://www.snpedia.com/index.php/Gs159)
 
 ## Compatibility
 
