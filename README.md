@@ -10,9 +10,9 @@ This genoset is to be used with DNA-JSON. See [dna2json](https://github.com/geno
 
 ```js
 var fastMetabolizer = require('genoset-159');
-var dna = require('./dna.json');
+var myDna = require('./dna.json');
 
-console.log(fastMetabolizer(dna));
+console.log(fastMetabolizer(myDna));
 // → `true` or `false`
 ```
 
